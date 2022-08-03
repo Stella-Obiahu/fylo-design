@@ -1,3 +1,59 @@
 .whole{
     background-color: brown;
 }
+.img{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;    
+}
+/* .p1{
+    display: inline-block;
+    
+}
+.p2{
+    display: inline-block;
+    
+}
+.p3{
+    display: inline-block;
+    
+} */
+* {
+    box-sizing: border-box;
+}
+  
+/* body {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+  
+  /* Float four columns side by side */
+.column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+}
+  
+  /* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(58, 18, 202, 0.2);
+    padding: 3px;
+    background-color: #f1f1f1;
+}
+  
+  /* Responsive columns */
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+}
+  
