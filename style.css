@@ -113,7 +113,7 @@
     border-color: rgb(7, 163, 163);
     font-size: 15px;
     font-weight: bold;
-    padding: 9px 15px;
+    padding: 5px 10px;
     font-family: Arial, Helvetica, sans-serif;
     transition: transform 80ms ease-in;
 }
