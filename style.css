@@ -1,5 +1,5 @@
 .whole{
-    background-color: rgb(3, 3, 34);
+    background-color: rgb(8, 3, 27);
     
 }
 /* .step1{
@@ -96,6 +96,33 @@
 }
 .step1e{
     margin-left: 12em;
+    padding-bottom: 2em;
+}
+.step2{
+    box-sizing: content-box;
+    background-color: #030b1d;
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.button1a{
+    background-color: rgb(7, 163, 163);
+    color: rgb(250, 247, 245);
+    width: 10vw;
+    border-radius: 20px;
+    border-color: rgb(7, 163, 163);
+    font-size: 15px;
+    font-weight: bold;
+    padding: 9px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: transform 80ms ease-in;
+}
+.button1a:active{
+    transform: scale(0.85);
+}
+.input{
+    padding: 9px 50px;
+    border-radius: 20px;
 }
 .button1{
     background-color: rgb(7, 163, 163);
