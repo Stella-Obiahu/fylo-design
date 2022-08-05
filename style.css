@@ -103,7 +103,7 @@
     background-color: #030b1d;
     text-align: center;
     padding-top: 2em;
-    padding-bottom: 2em;
+    /* padding-bottom: 2em; */
 }
 .button1a{
     background-color: rgb(7, 163, 163);
