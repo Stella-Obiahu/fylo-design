@@ -1,11 +1,12 @@
+
 .whole{
     background-color: rgb(8, 3, 27);
-    
-}
-/* .step1{
     background-image: url('bg-curvy-desktop.svg');
     background-repeat: no-repeat;
-} */
+    background-position: center;
+    background-size: cover;
+    height: 50%;
+}
 .img{
     border-radius: 50%;
     height: 40px;
@@ -100,10 +101,11 @@
 }
 .step2{
     box-sizing: content-box;
-    background-color: #030b1d;
+    background-color: #08122bc0;
     text-align: center;
     padding-top: 2em;
     padding-bottom: 2em;
+    margin-top: 17em;   
 }
 .button1a{
     background-color: rgb(7, 163, 163);
