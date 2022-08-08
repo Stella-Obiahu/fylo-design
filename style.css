@@ -105,9 +105,11 @@
     text-align: center;
     padding-top: 2em;
     padding-bottom: 2em;
-    margin-top: 17em; 
+    margin-top: 17em;
+    margin-bottom: -4em;
     border-radius: 2%;
-    
+    width: 30vw;
+    margin-left: 50em;
 }
 .button1a{
     background-color: rgb(7, 163, 163);
