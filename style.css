@@ -93,7 +93,7 @@
 }
 .step1di{
     margin-top: 2em;
-   
+    /* #08122bc0 */
 }
 .step1e{
     margin-left: 12em;
@@ -101,11 +101,13 @@
 }
 .step2{
     box-sizing: content-box;
-    background-color: #08122bc0;
+    background-color: #a80c79c0;
     text-align: center;
     padding-top: 2em;
     padding-bottom: 2em;
-    margin-top: 17em;   
+    margin-top: 17em; 
+    border-radius: 2%;
+    
 }
 .button1a{
     background-color: rgb(7, 163, 163);
