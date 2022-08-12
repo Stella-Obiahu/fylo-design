@@ -176,12 +176,16 @@
         border-color: rgb(7, 163, 163);
         font-size: 15px;
         font-weight: bold;
-        padding: 9px 15px;
+        padding: 9px 25px;
         font-family: Arial, Helvetica, sans-serif;
         transition: transform 80ms ease-in;
     }
     .button1:active{
         transform: scale(0.70);
+    }
+    .step1e{
+        margin-left: 3em;
+        padding-bottom: 2em;
     }
     .column {
       width: 100%;
