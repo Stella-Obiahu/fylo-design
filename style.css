@@ -179,9 +179,10 @@
     .step1e{
         margin-left: 3em;
         padding-bottom: 2em;
+        width: 75%;
     }
     .column {
-      /* width: 100%; */
+       width: 100%;
       display: block;
       margin-bottom: 20px;
     }
