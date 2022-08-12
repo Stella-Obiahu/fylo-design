@@ -65,6 +65,15 @@
     margin-right: auto;
     width: 50%;
 }
+.step1{
+    padding-bottom: 7em;
+}
+.step3{
+    padding-top: 4em;
+}
+.step3a{
+    padding-top: 6em;
+}
 .step1a{
     padding-bottom: 5em;
     text-align: center;
@@ -105,11 +114,12 @@
     text-align: center;
     padding-top: 2em;
     padding-bottom: 2em;
-    margin-top: 17em;
-    margin-bottom: -4em;
+    /* margin-top: 17em;
+    margin-bottom: -4em; */
     border-radius: 2%;
     width: 50vw;
     margin-left: 23em;
+    position: absolute;
 }
 .button1a{
     background-color: rgb(7, 163, 163);
