@@ -191,7 +191,7 @@
         width: 45em;
         height: 15em;
         text-align: center;
-        margin-left: 9em;
+        margin-left: 7em;
         padding: 2em;
     }
     .input{
@@ -199,7 +199,7 @@
         height: 5.5vh;
     }
     .step1{
-        padding-bottom: 15em;
+        padding-bottom: 10em;
     }
     .step3{
         padding-top: 6em;
