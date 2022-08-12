@@ -188,7 +188,8 @@
     }
     .step2{
         box-sizing: border-box;
-        width: 40em;
+        width: 45em;
+        height: 15em;
         text-align: center;
         margin-left: 9em;
         padding: 2em;
