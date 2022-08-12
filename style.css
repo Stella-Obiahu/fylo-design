@@ -172,12 +172,16 @@
         width: 35vw;
         height: 5.5vh;
     }  
+    .button1a{
+        width: 35vw;
+        height: 5.5vh;
+    }
     .step1e{
         margin-left: 3em;
         padding-bottom: 2em;
     }
     .column {
-      width: 100%;
+      /* width: 100%; */
       display: block;
       margin-bottom: 20px;
     }
