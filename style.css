@@ -189,7 +189,7 @@
     .step2{
         width: 100%;
         text-align: center;
-        margin-left: 15em;
+        /* margin-left: 15em; */
         padding: 2em;
     }
     .input{
@@ -197,7 +197,7 @@
         height: 5.5vh;
     }
     .step1{
-        padding-bottom: 10em;
+        padding-bottom: 5em;
     }
     .step3{
         padding-top: 8em;
