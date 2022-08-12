@@ -169,20 +169,9 @@
         width: 52em;
     }
     .button1{
-        background-color: rgb(7, 163, 163);
-        color: rgb(250, 247, 245);
-        width: 15vw;
-        border-radius: 20px;
-        border-color: rgb(7, 163, 163);
-        font-size: 15px;
-        font-weight: bold;
-        padding: 9px 25px;
-        font-family: Arial, Helvetica, sans-serif;
-        transition: transform 80ms ease-in;
-    }
-    .button1:active{
-        transform: scale(0.70);
-    }
+        width: 35vw;
+        height: 5.5vh;
+    }  
     .step1e{
         margin-left: 3em;
         padding-bottom: 2em;
