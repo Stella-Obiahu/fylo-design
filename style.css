@@ -110,7 +110,7 @@
 }
 .step2{
     box-sizing: content-box;
-    background-color: #a80c79c0;
+    background-color: #200719fa;
     text-align: center;
     padding-top: 2em;
     padding-bottom: 2em;
@@ -156,7 +156,10 @@
     transform: scale(0.70);
 }
   /* Responsive columns */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 550px) {
+    body{
+        
+    }
     .column {
       width: 100%;
       display: block;
