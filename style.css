@@ -163,7 +163,7 @@
   /* Responsive columns */
 @media screen and (max-width: 550px) {
     .whole{
-        width: 50em;
+        width: 52em;
     }
     .button1{
         background-color: rgb(7, 163, 163);
