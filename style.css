@@ -165,6 +165,9 @@
     .whole{
         width: 52em;
     }
+    .body{
+        width: 52em;
+    }
     .button1{
         background-color: rgb(7, 163, 163);
         color: rgb(250, 247, 245);
