@@ -187,9 +187,10 @@
       margin-bottom: 20px;
     }
     .step2{
-        width: 80vw;
+        width: 100%;
         text-align: center;
         margin-left: 15em;
+        padding: 2em;
     }
     .input{
         width: 35vw;
